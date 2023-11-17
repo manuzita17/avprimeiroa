@@ -12,6 +12,10 @@ h1{
     color: rgb(207, 107, 74);
     font-size: 50px;
 }
+p{
+    text-align: center;
+    font-size: 15px;
+}
  .botao{
     background-color: chocolate;
     color: rgb(79, 146, 204);
