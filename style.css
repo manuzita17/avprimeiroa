@@ -4,6 +4,26 @@ font-size: 25px ;
 color:aquamarine  
 }
 body{
- background-color: forestgreen  
+ background-image: url(moda.jpg);
+ background-size: cover;
 }
+h1{
+    text-align: center;
+    color: rgb(207, 107, 74);
+    font-size: 50px;
+}
+ .botao{
+    background-color: chocolate;
+    color: rgb(79, 146, 204);
+    border: none;
+    text-align: center;
+    padding: 10px 20px;
+    display: inline-block;
+    cursor: pointer;
+ }
+ .cabecalho{
+    border-style: groove;
+    border-color: blue;
+ }
+
 
