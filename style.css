@@ -9,13 +9,13 @@ body{
 }
 h1{
     text-align: center;
-    color: rgb(207, 107, 74);
+    color: blueviolet 255, 0, 43;
     font-size: 50px;
 }
 p{
     text-align: center;
     font-size: 35px;
-    color: blue;
+    color: rgb(234, 0, 255);
 }
  .botao{
     background-color: chocolate;
